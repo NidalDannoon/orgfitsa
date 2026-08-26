@@ -6,9 +6,9 @@
 
 // إعدادات قاعدة البيانات
 define('DB_HOST', 'localhost');          // عنوان خادم قاعدة البيانات
-define('DB_NAME', 'dorfitbase');           // اسم قاعدة البيانات
-define('DB_USER', 'urgfitser');               // اسم مستخدم قاعدة البيانات
-define('DB_PASS', 'T7n%9C3TF33pH4WcvXz0Mob5apjhkrVm2');             // كلمة مرور قاعدة البيانات
+define('DB_NAME', '');           // اسم قاعدة البيانات
+define('DB_USER', '');               // اسم مستخدم قاعدة البيانات
+define('DB_PASS', '');             // كلمة مرور قاعدة البيانات
 define('DB_CHARSET', 'utf8mb4');         // ترميز قاعدة البيانات
 
 // إعدادات الموقع العامة
